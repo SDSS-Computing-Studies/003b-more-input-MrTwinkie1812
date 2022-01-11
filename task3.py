@@ -13,3 +13,14 @@ Enter the fift price: 7.99
 Your subtotal is $63.71 and your taxes total $7.65 for a total of $71.36
 
 """
+
+
+input_1 = input("Enter the first price:")
+input_2 = input("Enter the rate of growth in percent:")
+input_3 = input("Enter the number of days:")
+
+
+
+a = int(input_1) 
+b = int(input_2)
+c = int(input_3)
