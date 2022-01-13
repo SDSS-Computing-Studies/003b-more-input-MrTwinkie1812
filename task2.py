@@ -44,7 +44,7 @@ f(input_3)
 
 #future population = (current population)*(1+r)^(time in years) 
 print ("There will be "+ in3 +" people after 12 days")
-f(x) = a(1+r)^x
+f(x) '=' a(1+r)^x
 
 #f(x) = exponential growth function
 #a = initial amount of people
