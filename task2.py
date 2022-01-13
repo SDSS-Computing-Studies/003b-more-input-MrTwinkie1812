@@ -31,17 +31,25 @@ input_3 = input("Enter the number of days:")
 
 a = int(input_1) 
 b = float(input_2)
-c = float(input_3)
+x = float(input_3)
+
+f(input_3)
+#interest = a * b / 100 * c / 365
+#interest = str(interest)
 
 
-interest = a * b / 100 * c / 365
-#days in the month / 365
-interest = str(interest)
-
-
-in3 = round(interest,1)
+#in3 = round(interest 1)
 
 
 
 #future population = (current population)*(1+r)^(time in years) 
 print ("There will be "+ in3 +" people after 12 days")
+f(x) = a(1+r)^x
+
+#f(x) = exponential growth function
+#a = initial amount of people
+#r = growth rate
+#x = number of time intervals (in your case days)
+
+#Basically just create a program that takes the inputs of a, r, and x and output f(x)
+print ("dad")
